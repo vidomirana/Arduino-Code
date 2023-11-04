@@ -1,2 +1,2 @@
 # Arduino-Code
-Alguns mini projetos em Arduino baseado nas aulas do canal CFB CURSOS no youtube
+Alguns mini projetos em Arduino baseados nas aulas do canal CFB CURSOS no youtube
