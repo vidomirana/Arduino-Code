@@ -6,13 +6,13 @@ void setup()
 {
   pinMode(ldr, INPUT);
   pinMode(led, OUTPUT);
-  Serial.begin(9600);
+  Serial.begin(9600); 
 }
 
 void loop()
 {
   vldr=analogRead(ldr);
-  if(vldr>920){
+  if(vldr>400){
     digitalWrite(led, LOW);
   }else{
   	digitalWrite(led, HIGH);
